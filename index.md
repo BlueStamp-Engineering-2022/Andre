@@ -27,4 +27,4 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 [My starter project was the useless machine]
 
-![Final Milestone](https://i3.ytimg.com/vi/iXd-6P9hrxc/maxresdefault.jpg)
+![Final Milestone](https://i3.ytimg.com/vi/iXd-6P9hrxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iXd-6P9hrxc&t=6s){:target="_blank" rel="noopener"}

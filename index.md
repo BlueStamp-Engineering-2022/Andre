@@ -25,6 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 
-[My starter project was the useless machine]
+I chose the useless machine as my starter project because I saw several videos of Lego useless machines. I always found them cool and annoying and wanted to build one when I was younger. 
 
 [![Final Milestone](https://i3.ytimg.com/vi/iXd-6P9hrxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iXd-6P9hrxc&t=6s)

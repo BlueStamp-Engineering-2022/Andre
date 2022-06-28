@@ -25,6 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project
 
-I chose the useless machine as my starter project because I saw several videos of Lego useless machines. I always found them cool and annoying and wanted to build one when I was younger. The useless machine is a machine that will turn itself off by summoning a leg, hitting the switch and turning it off when the switch is hit.
+I chose the useless machine as my starter project because I saw several videos of Lego useless machines. I always found them cool and annoying and wanted to build one when I was younger. The useless machine is a machine that will turn itself off by summoning a leg, hitting the switch and turning it off when the switch is hit by the person.
 
 [![Final Milestone](https://i3.ytimg.com/vi/iXd-6P9hrxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iXd-6P9hrxc&t=6s)

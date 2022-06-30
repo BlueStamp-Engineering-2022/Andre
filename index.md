@@ -1,5 +1,5 @@
 ﻿# Vein Infared Detector
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This project's purpose is to be able to detect veins using a camera with a infared lens to see infared light shined onto the surface. The image then goes to the computer which is where you can see your veins.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

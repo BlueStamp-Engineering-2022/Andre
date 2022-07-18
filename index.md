@@ -3,7 +3,7 @@ This project's purpose is to be able to detect veins using a camera with a infar
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Andre Tse | Pacific Collegiate High School | Electrical Engineering | Incoming Junior
+| Andre | Pacific Collegiate High School | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXgQ5b5x2yBuvtc8409Pr-Yf3YhQeoXUco-sH8k2zSHRK3GodU4rS-twoV891mqLF8BpjZhXExjMr23Peq4e1w1h62bf4xQGXDO0X7HA92AZLkzdg5Lep1FuggF_HuNVNK0XxZ30JZ9_vy2jjD8IxZG=w1454-h1452-no?authuser=0)
   

@@ -20,7 +20,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone was setting up and hooking up the Raspberry Pi, creating a parallel circuit for the LEDs, extracting out the camera from the shell, and testing components.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone")
+[![First Milestone](https://i3.ytimg.com/vi/kAokawNfTBM/maxresdefault.jpg)](https://www.youtube.com/watch?v=kAokawNfTBM)
 
 # Starter Project
 

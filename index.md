@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://i3.ytimg.com/vi/5jhdV079s3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=5jhdV079s3k)
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second miledstone was creating a new parallel cicuit with double the amount of resistors and LEDs, copying a histogram equalization and video program, and several other things discovered during testing.
 
 [![Third Milestone](https://i3.ytimg.com/vi/P69Kxp17wZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P69Kxp17wZ0)
 # First Milestone

@@ -8,7 +8,7 @@ This project's purpose is to be able to detect veins using a camera with a infar
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXgQ5b5x2yBuvtc8409Pr-Yf3YhQeoXUco-sH8k2zSHRK3GodU4rS-twoV891mqLF8BpjZhXExjMr23Peq4e1w1h62bf4xQGXDO0X7HA92AZLkzdg5Lep1FuggF_HuNVNK0XxZ30JZ9_vy2jjD8IxZG=w1454-h1452-no?authuser=0)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+In my final milestone I constructed a cardboard frame that hides the raspberry pi and battery and raises the Infrared LEDs 3 inches above the camera. We figured out from testing that it works better farther away from the camera.
 
 [![Final Milestone](https://i3.ytimg.com/vi/5jhdV079s3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=5jhdV079s3k)
 

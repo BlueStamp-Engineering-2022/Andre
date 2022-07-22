@@ -6,6 +6,7 @@ This project's purpose is to be able to detect veins using a camera with a infar
 | Andre | Pacific Collegiate High School | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLXgQ5b5x2yBuvtc8409Pr-Yf3YhQeoXUco-sH8k2zSHRK3GodU4rS-twoV891mqLF8BpjZhXExjMr23Peq4e1w1h62bf4xQGXDO0X7HA92AZLkzdg5Lep1FuggF_HuNVNK0XxZ30JZ9_vy2jjD8IxZG=w1454-h1452-no?authuser=0)
+ 
   
 # Final Milestone
 In my final milestone I constructed a cardboard frame that hides the raspberry pi and battery and raises the Infrared LEDs 3 inches above the camera. We figured out from testing that it works better farther away from the camera. I also installed a switch to turn off the circuit just in case the resistors are getting too hot.
@@ -16,6 +17,8 @@ In my final milestone I constructed a cardboard frame that hides the raspberry p
 My second miledstone was creating a new parallel cicuit with double the amount of resistors and LEDs, copying a histogram equalization and video program, and several other things discovered during testing. We also found out that the rechargable battery pack doesn't output enough power (5V) for 8 33 ohm resistors and 8 IR LEDs so I ended up using 4 AA batteries with no step down module
 
 [![Second Milestone](https://i3.ytimg.com/vi/P69Kxp17wZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P69Kxp17wZ0)
+
+![Headstone Image](https://drive.google.com/file/d/1y24YQhXGht_6JE8De3iydcqOikCoOY0L/view?usp=sharing)
 
 # First Milestone
   

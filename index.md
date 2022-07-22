@@ -18,7 +18,7 @@ My second miledstone was creating a new parallel cicuit with double the amount o
 
 [![Second Milestone](https://i3.ytimg.com/vi/P69Kxp17wZ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P69Kxp17wZ0)
 
-![Headstone Image](https://drive.google.com/file/d/1y24YQhXGht_6JE8De3iydcqOikCoOY0L/view?usp=sharing)
+![Headstone Image](https://photos.app.goo.gl/jvy1zomDTnNLTrEK7)
 
 # First Milestone
   
